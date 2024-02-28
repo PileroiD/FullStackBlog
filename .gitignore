@@ -1,0 +1,10 @@
+*~
+*.swp
+*.log
+node_modules/
+bower_components/
+.idea/
+.vscode/
+.env
+venv/
+package-lock.json
