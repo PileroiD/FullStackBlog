@@ -8,3 +8,4 @@ bower_components/
 .env
 venv/
 package-lock.json
+uploads/
